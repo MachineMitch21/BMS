@@ -36,11 +36,11 @@
     <ClInclude Include="checking_account.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="account_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bank_management.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="AssemblyInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

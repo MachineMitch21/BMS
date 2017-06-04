@@ -136,6 +136,7 @@
     <ClInclude Include="bank_management.h" />
     <ClInclude Include="checking_account.h" />
     <ClInclude Include="customer.h" />
+    <ClInclude Include="account_manager.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="savings_account.h" />
     <ClInclude Include="Stdafx.h" />
@@ -143,7 +144,6 @@
   <ItemGroup>
     <ClCompile Include="account.cpp" />
     <ClCompile Include="AssemblyInfo.cpp" />
-    <ClCompile Include="bank_management.cpp" />
     <ClCompile Include="checking_account.cpp" />
     <ClCompile Include="customer.cpp" />
     <ClCompile Include="savings_account.cpp" />
